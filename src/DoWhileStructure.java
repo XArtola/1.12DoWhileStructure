@@ -115,7 +115,7 @@ public class DoWhileStructure {
 				Number = Scan.nextInt();
 				Number2 = Scan.nextInt();
 				
-			}while(((Number != 123) && (Number2 != 321)) || ((Number !=321) && (Number2 != 123)));
+			}while(!(Number == 123 && Number2 == 321));
 			
 			
 			
