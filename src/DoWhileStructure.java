@@ -147,6 +147,8 @@ public class DoWhileStructure {
 			System.out.print("\n");
 			Number = Scan.nextInt();
 			
+			Print = 0;
+			
 			
 			}while(Number !=0);
 		
